@@ -21,6 +21,7 @@ def loot(num):
 
 def main():
     inv_slot = 0
+    #1440p fullscreen 2560x1440
     monitor_boxes = [
         {"top":388,"left":1773,"width":590,"height":47},
         {"top":446,"left":1773,"width":590,"height":47},
